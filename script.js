@@ -1,0 +1,1 @@
+new Slider(document.getElementById('slider'))
