@@ -1,26 +1,14 @@
-*{
+* {
   box-sizing: border-box;
 }
-body{
-  margin:0;
-  padding:0;
-
+body {
+  background-color: rgb(253, 245, 235);
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
 }
-.image{
-  display: flex;
-  height:10rem;
-  margin:1rem;
-  justify-content: center;
-  align-items: center;
-}
-.im1{
-
-  background: brown;
-}
-.im2{
-
-  background: blueviolet;
-}
-.im3{
-  background: blue;
+.slide img {
+  width: 100%;
+  pointer-events: none;
 }
