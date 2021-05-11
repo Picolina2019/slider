@@ -1,1 +1,0 @@
-The slider was built using plain JS. I thought it would be easier to manipulate DOM elements and to add/remove event listeners to get proper functionality on screen resizing. The slider adapts to screen sizes, has navigation in a form of buttons and, also, can be dragged on a desktop or swiped on a mobile. I left some comments in the code to explain the logic. 
